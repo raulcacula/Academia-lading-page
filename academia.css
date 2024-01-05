@@ -599,6 +599,11 @@ footer{
     text-decoration: underline;
     color: azure;
 }
+.marcad{
+    color: darkgrey;
+    font-size: 13px;
+    font-family: 'poppins';
+}
 .zap{
 
     padding: 1rem 1.2rem;
